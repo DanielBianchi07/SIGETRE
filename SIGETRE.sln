@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIGETRE.web", "SIGETRE.web\SIGETRE.web\SIGETRE.web.csproj", "{F68D12E7-1607-4341-BEAA-4FAF934C6718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIGETRE.web.Client", "SIGETRE.web\SIGETRE.web.Client\SIGETRE.web.Client.csproj", "{103FB107-25D0-4EA3-80EA-D8FD010CF8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68D12E7-1607-4341-BEAA-4FAF934C6718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68D12E7-1607-4341-BEAA-4FAF934C6718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68D12E7-1607-4341-BEAA-4FAF934C6718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68D12E7-1607-4341-BEAA-4FAF934C6718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103FB107-25D0-4EA3-80EA-D8FD010CF8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103FB107-25D0-4EA3-80EA-D8FD010CF8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103FB107-25D0-4EA3-80EA-D8FD010CF8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103FB107-25D0-4EA3-80EA-D8FD010CF8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090197AD-B153-4A68-BCC6-70DBAA1C171C}
+	EndGlobalSection
+EndGlobal
